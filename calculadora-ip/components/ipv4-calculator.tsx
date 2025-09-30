@@ -40,7 +40,7 @@ export function IPv4Calculator() {
       <Card>
         <CardHeader>
           <CardTitle>Entrada de Datos</CardTitle>
-          <CardDescription>Ingrese la dirección IP y la máscara de subred en formato decimal (X.X.X.X)</CardDescription>
+          <CardDescription>Ingresar la dirección IP y la máscara de subred en formato decimal (X.X.X.X)</CardDescription>
         </CardHeader>
         <CardContent className="space-y-4">
           <div className="grid gap-4 md:grid-cols-2">
