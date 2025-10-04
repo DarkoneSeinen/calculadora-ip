@@ -58,7 +58,7 @@ npm i
 npm run build
 ```
 
-4. Iniciar el servidor en el puerto por defecto (package.json):
+4. Iniciar el servidor en el puerto por defecto 8080 (package.json):
 ```bash
 npm run start o
 npm run dev
@@ -91,7 +91,7 @@ Al ser ejecutados estos comandos la aplicación estará disponible en:
 - local:     http://localhost:80
 - Network:   http://ip-maquina-vbox:80
 
-Al 
+
 
 
 
