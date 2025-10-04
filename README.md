@@ -27,7 +27,10 @@ calculadora-ipv4/
 │   ├── components/       # Componentes reutilizables
 │   │   ├── ui/          # Componentes de interfaz de usuario
 │   │   └── IPv4Calculator.tsx
-│   └── lib/             # Utilidades y servicios
+│   └── lib/              # Utilidades y servicio
+|       |  
+|       └──ipv4Service.ts #Servicio que maneja la lógica de la calculadora
+|       └──utils.ts
 ├── public/              # Archivos estáticos
 └── ...                  # Archivos de configuración
 ```
